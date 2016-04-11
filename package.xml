@@ -8,5 +8,6 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>python-qt-bindings-qwt5</run_depend> -->
+  <!-- Python packages for Qwt 6.1 are not yet available -->
+  <!--<run_depend>python-qt-bindings-qwt61</run_depend>-->
 </package>
