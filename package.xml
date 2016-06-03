@@ -8,5 +8,5 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>python-qt-bindings-qwt5</run_depend> -->
+  <run_depend>python-qt-bindings-qwt5</run_depend>
 </package>
