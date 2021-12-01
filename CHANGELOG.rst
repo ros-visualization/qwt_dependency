@@ -2,8 +2,8 @@
 Changelog for package qwt_dependency
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.2 (2021-12-01)
+------------------
 * add python3-qwt for Noetic (`#3 <https://github.com/ros-visualization/qwt_dependency/issues/3>`_)
 * update maintainers
 * Contributors: Mabel Zhang
